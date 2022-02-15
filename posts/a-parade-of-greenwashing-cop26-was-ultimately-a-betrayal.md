@@ -3,7 +3,7 @@ title: A parade of greenwashing, COP26 was ultimately a betrayal
 date: 2021-11-14T19:37:08.444Z
 author: Louis Mitchell
 summary: I wrote this article for The Sydney Morning Herald and The Age after
-  attending COP26. It's republished here because it's nice.
+  attending COP26.
 tags:
   - post
 ---
