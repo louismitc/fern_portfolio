@@ -2,15 +2,12 @@
 title: A parade of greenwashing, COP26 was ultimately a betrayal
 date: 2021-11-14T19:37:08.444Z
 author: Louis Mitchell
-summary: I wrote this article for [The Sydney Morning
-  Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html)
-  and [The
-  Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html)
-  after attending COP26. It's republished here becuase it's nice.
+summary: I wrote this article for The Sydney Morning Herald and The Age after
+  attending COP26. it's republished here because it's nice.
 tags:
   - post
 ---
-*I wrote this article for [The Sydney Morning Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) and [The Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) after attending COP26. It's republished here becuase it's nice.*
+*I wrote this article for [The Sydney Morning Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) and [The Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) after attending COP26. It's republished here because it's nice.*
 
 A quiet murmur, simmering with both anxiety and excitement, fills the room. The air is thick with anticipation.
 
