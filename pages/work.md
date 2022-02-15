@@ -1,7 +1,6 @@
 ---
-title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+title: work
+subtitle: i've done some stuff, and you can read about it here
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +9,43 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Climate Live
 
-**Senior Software Engineer** *(2019 - Current)*
+**Event Coordinator & Messaging Strategist** *(2021 - 2022)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
+* Coordinated Social medi
 * Invented the Cyber Truck
 
-#### Microsoft
+**Social Media Lead** *(2020 - 2021)*
 
-**Software Engineer** *(2014 - 2019)*
+* Coordinated Climate Live's social presence across 
+* Invented the Cyber Truck
 
-* Maintained legacy Internet Explorer for 5 long years
+#### School Strike 4 Climate Australia
+
+**Content & Socials Producer and Mobiliser** *(2019 - 2020)*
+
+* Coordinated 
 
 - - -
 
-### 📚 Education:
+### 🪴 Other Work:
 
-#### Harvard
+#### Fridays For Future 
 
-**PhD Astronomy** *(2014 - 2015)*
+**International Social Media Team** *(2020 - 2022)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Assisted with Social Stratagy  
+* Invented the Cyber Truck
+
+**Sweden Social Media Team** *(2020 - 2022)*
+
+* Assisted with Social Stratagy  
+* Invented the Cyber Truck
+
+#### Childrens Book Council of Australia
+
+**Video Producer** *(2022)*
+
+* Assisted with Social Stratagy  
+* Invented the Cyber Truck
