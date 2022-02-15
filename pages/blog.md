@@ -7,5 +7,5 @@ date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
   key: writing
-  order: 0
+  order: -9
 ---
