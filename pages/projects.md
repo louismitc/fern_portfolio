@@ -1,8 +1,8 @@
 ---
 layout: layouts/projects.njk
 title: projects
-subtitle: This is the page where all projects will live
-metaDescription: A sample Projects page
+subtitle: some of the decent stuff i've done
+metaDescription: find some of the cool stuff i've done here
 date: 2021-01-01
 permalink: /projects/index.html
 emoji: 💻
