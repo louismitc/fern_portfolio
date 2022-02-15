@@ -7,5 +7,5 @@ date: 2022-02-15T19:24:59.321Z
 permalink: /writing/index.html
 eleventyNavigation:
   key: writing
-  order: 8
+  order: 5
 ---
