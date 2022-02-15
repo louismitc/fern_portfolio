@@ -1,11 +1,9 @@
 ---
 section: contact
 layout: layouts/contact.njk
-title: Get in touch
+title: contact me
 subtitle: want to hire me? or just chat about a project? let me know
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: ""
 date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
