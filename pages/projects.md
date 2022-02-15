@@ -7,6 +7,6 @@ date: 2021-01-01
 permalink: /projects/index.html
 emoji: 💻
 eleventyNavigation:
-  key: projects
-  order: 4
+  key: portfolio
+  order: 3
 ---
