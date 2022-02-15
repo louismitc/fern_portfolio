@@ -1,11 +1,12 @@
 ---
-title: About Me
+title: about me
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: who is louis? why is louis? what is the meaning of life? i have
+  no idea, but this page could help.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
+  key: about
   order: 1
 ---
 #### Why Create This?
