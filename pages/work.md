@@ -4,7 +4,7 @@ subtitle: i've done some stuff, and you can read about it here
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
-  order: 3
+  order: 2
   key: Work
 ---
 ### 👩‍💻 Experience:
