@@ -31,14 +31,14 @@ eleventyNavigation:
 
 ### 🪴 Other Work:
 
-#### Fridays For Future 
+#### Fridays For Future
 
 **International Social Media Team** *(2020 - 2022)*
 
 * Assisted with Social Stratagy  
 * Invented the Cyber Truck
 
-**Sweden Social Media Team** *(2020 - 2022)*
+**Sweden Social Media Team** *(2022)*
 
 * Assisted with Social Stratagy  
 * Invented the Cyber Truck
