@@ -2,8 +2,11 @@
 title: A parade of greenwashing, COP26 was ultimately a betrayal
 date: 2021-11-14T19:37:08.444Z
 author: Louis Mitchell
-summary: We don’t just need climate action, we need climate justice, and right
-  now we’re getting neither.
+summary: I wrote this article for [The Sydney Morning
+  Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html)
+  and [The
+  Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html)
+  after attending COP26. It's republished here becuase it's nice.
 tags:
   - post
 ---
