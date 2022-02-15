@@ -5,7 +5,7 @@ date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
   order: 2
-  key: Work
+  key: work
 ---
 ### 👩‍💻 Experience:
 
