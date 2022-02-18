@@ -3,7 +3,7 @@
 # 🪴 my portfolio
 yo, it's my current portfolio! based on [fernfolio](https://fernfolio.netlify.app/) by tyler m. boderick using [eleventy](https://www.11ty.io/) and [netlify cms](https://www.netlifycms.org/)
 
-it has full support for netlify cms and uses markdown for content and nunjucks for layouts (mmm, sexy) and has no javascript framework (hot)
+it has full support for netlify cms, uses markdown for content and nunjucks for layouts (mmm, sexy) and has no javascript framework (hot)
 
 
 ## 💻 development scripts
