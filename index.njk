@@ -25,5 +25,5 @@ section: home
 
   <hr>
   <h1>projects</h1>
-  {% set projectlist = collections.project %}
+  {% set projectlist = collections.project | sortByOrder %}
   {% include "components/projectlist.njk" %}

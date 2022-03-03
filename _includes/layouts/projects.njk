@@ -10,6 +10,6 @@ section: projects
   <hr>
   {{ layoutContent | safe }}
 
-  {% set projectlist = collections.project %}
+  {% set projectlist = collections.project | sortByOrder %}
   {% include "components/projectlist.njk" %}
 </div>

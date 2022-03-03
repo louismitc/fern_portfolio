@@ -37,10 +37,10 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
-  // Sort projects by date
-  eleventyConfig.addCollection('project', collection => {
-    return collection.getFilteredByGlob("projects/**/*.md")
-        .sort((a, b) => b.data.order - a.data.order);
+  // Sort by order
+  eleventyConfig.addFilter("sortByOrder", values => {
+    let vals = [...values];
+    return vals.sort((a, b) => a.data.order - b.data.order);
   });
 
   // Date formatting (human readable)
