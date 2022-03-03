@@ -8,7 +8,7 @@ tags:
   - graphics
   - copywriting
   - social media
-order: 2
+order: 1
 ---
 
 ### Task

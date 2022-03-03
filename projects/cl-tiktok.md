@@ -7,7 +7,7 @@ summary: Creation of engaging and viral TikToks for Climate Live
 tags:
   - video editing
   - social media
-order: 3
+order: 2
 ---
 
 ### Task
