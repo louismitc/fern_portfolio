@@ -33,7 +33,7 @@ The video was also designed with the intention to create a bold hero image with 
 
 <img width="1280" alt="May 15 hero image" src="/static/img/may15-hero.png">
 
-If I had the opportunity to remake the video with the experience I have now, I would definitely adjust the use of text in the middle portion, as I feel that it has the opportunity to be more impactful and professional.
+If I had the opportunity to remake the video with the experience I have now, I would definitely adjust the use of text in the middle portion, as I feel that it has the opportunity to be more impactful and engaging.
 
 Overall though, I’m extremely happy with the way that the video turned out, and it received substantial engagement and views across social networks. Sadly it was not utilised for as long as it could, as the outbreak of COVID-19 caused the strike to be cancelled.
 
