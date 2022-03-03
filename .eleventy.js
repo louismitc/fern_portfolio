@@ -37,6 +37,12 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+  // Sort projects by date
+  eleventyConfig.addCollection('project', collection => {
+    return collection.getFilteredByGlob("projects/**/*.md")
+        .sort((a, b) => b.data.order - a.data.order);
+  });
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
