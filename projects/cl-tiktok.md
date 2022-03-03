@@ -12,7 +12,8 @@ tags:
 ### Task
 I was tasked on a few occasions to create social content for Climate Live’s TikTok page.
 
-#### Edited TikTok
+#### Edited TikToks
+⚠️ Please note, the following video contains flashing and fast moving images
 <div align="center">
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@climatelive/video/7010437886822599941" data-video-id="7010437886822599941" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@climatelive" href="https://www.tiktok.com/@climatelive">@climatelive</a> ⚠️tw: flashing lineup announcement in 2 days <a title="canyouhearusyet" target="_blank" href="https://www.tiktok.com/tag/canyouhearusyet">#CANYOUHEARUSYET</a> <a target="_blank" title="♬ son original - FYP" href="https://www.tiktok.com/music/son-original-6979312907339254533">♬ son original - FYP</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div>

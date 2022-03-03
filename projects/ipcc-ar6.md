@@ -3,7 +3,7 @@ title: IPCC Report x Climate Live
 emoji: 🌊
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: Engaging graphics to summarise the IPCC report for social media.  
+summary: Engaging graphics to summarise the IPCC report for social media
 tags:
   - graphics
   - copywriting
