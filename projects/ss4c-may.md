@@ -7,6 +7,7 @@ summary: Start to end video production for the SS4C May 2020 Strike launch video
 tags:
   - video editing
   - production
+order: 1
 ---
 
 ### Task

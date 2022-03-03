@@ -8,10 +8,11 @@ tags:
   - video editing
   - social media
   - production
+order: 4
 ---
 
 ### Task
-I was tasked on a few occasions to create video content for Climate Live across social platforms. 
+I was tasked on a few occasions to create video content for Climate Live across social platforms.
 
 ### April Fools Day 2021
 With Climate Live holding events in April, we needed to boost our engagement and draw more attention to the Climate Live brand. A key idea I presented was to create something funny for April Fools Day. At the time, Climate Live’s social media ran at a tight schedule, so I was only given 2 days to concept, write and edit something together, which is generally a bit tight for something more complex - so my original pitch was pushing it. I did it anyway though.
