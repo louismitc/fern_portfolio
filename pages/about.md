@@ -21,7 +21,7 @@ Video and content that makes people engage and feel something is my passion. Wet
 
 #### skills
 
-Though my work in social media communications, I’ve managed to get good at a few things. I’m great at working though content planning, in both the long and short term.
+Through my work in social media communications, I’ve managed to get good at a few things. I’m great at working through content planning, in both the long and short term.
 
 From a production perspective, I’m great at storyboarding, scripting, production logistics, and most parts of post production. I also used to work in music production so I’m pretty good at anything music/audio related for your projects.
 
