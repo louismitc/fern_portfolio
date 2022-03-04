@@ -17,7 +17,7 @@ What’s a Social Strategist, you might ask. Basically, I’m pretty good at wor
 
 Youth movements and non-profits are my strength. I’ve worked extensively with digital communications in youth climate groups such as School Strike 4 Climate and Fridays For Future, and other non-profits such as Climate Live.
 
-Video and content that makes people engage and feel something is my passion. Wether that be a launch video, a campaign announcement, or just a general video to share an update to your supporters, I’m skilled at making sure that you can get that message out to the people who need to see it. I can help in any stage of the process - wether that be planning, scripting, production, editing, or campaigning, I’m keen to help.
+Video and content that makes people engage and feel something is my passion. Whether that be a launch video, a campaign announcement, or just a general video to share an update to your supporters, I’m skilled at making sure that you can get that message out to the people who need to see it. I can help in any stage of the process - wether that be planning, scripting, production, editing, or campaigning, I’m keen to help.
 
 #### skills
 
