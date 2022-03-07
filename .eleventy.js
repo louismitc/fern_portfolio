@@ -37,6 +37,12 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
+  // Sort by order
+  eleventyConfig.addFilter("sortByOrder", values => {
+    let vals = [...values];
+    return vals.sort((a, b) => a.data.order - b.data.order);
+  });
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
