@@ -43,6 +43,7 @@ eleventyNavigation:
 
 **International Social Media Team** *(2020 - 2022)*
 
+* Successfully launched the Fridays for Future TikTok account within a small team and assisted in creating editied and creative content 
 * Collaborated in a team environment to develop social strategy within strikes
 * Helped define branding and content stratergies for multiple strike dates
 * Created content to engage an audience of over 480k followers and millions of supporters
