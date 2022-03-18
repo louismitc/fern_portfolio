@@ -43,7 +43,7 @@ eleventyNavigation:
 
 **International Social Media Team** *(2020 - 2022)*
 
-* Successfully launched the Fridays for Future TikTok account within a small team and assisted in creating editied and creative content 
+* Successfully launched the Fridays for Future TikTok account within a small team and assisted in creating editied and creative content
 * Collaborated in a team environment to develop social strategy within strikes
 * Helped define branding and content stratergies for multiple strike dates
 * Created content to engage an audience of over 480k followers and millions of supporters
@@ -55,7 +55,7 @@ eleventyNavigation:
 
 #### Childrens Book Council of Australia
 
-**Video Producer** *(2022)*
+**Video Producer** *(2021)*
 
 * Planned, developed and delivered multiple video projects in a short timeframe during the COVID-19 pandemic.
 * Supported the organisation in reworking their messaging strategy to reach a wider audience
