@@ -18,6 +18,8 @@
   justify-content: center;
   padding: 15px 30px;
   border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  background-color: white
 }
 
 .project-card__title {
