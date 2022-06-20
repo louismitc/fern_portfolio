@@ -7,7 +7,7 @@ summary: Planning, development, scripting and editing of an awards event
 tags:
   - video editing
   - production
-order: 5
+order: 6
 ---
 
 ### Task
