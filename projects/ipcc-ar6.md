@@ -17,7 +17,7 @@ With the IPCC AR6 report being released, I was tasked to create engaging graphic
 
 ### Solution
 
-I decided it would be best for the title slide to be different and unique to the other slides, to draw Using composites and multiple effects, I created a title slide. I had to spend some time on the title effect to ensure that it was not only visually engaging but also accessible to read.
+I decided it would be best for the title slide to be different and unique to the other slides, to engage the scrolling viewer, who would also be likely exposed to a lot of IPCC content, due to Climate Live's audience demographic. Using composites and multiple effects, I created a title slide. I had to spend some time on the title effect to ensure that it was not only visually engaging but also accessible to read.
 
 <img width="1280" alt="Title slide of post" src="/static/img/ipcc-titleopt.gif">
 
