@@ -9,6 +9,8 @@ tags:
 order: 3
 ---
 
+<img alt="CL Sweden Launch" src="/static/img/gif/climate live swe.gif">
+
 ### Task
 I was contracted by Climate Live Sweden to produce a short 20-30 second video to announce their upcoming 2022 event series. Content and copy was supplied, so the task as a whole was relatively simple.
 

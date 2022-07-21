@@ -10,6 +10,8 @@ tags:
 order: 1
 ---
 
+<img alt="SS4C gif" src="/static/img/gif/ss4c.gif">
+
 ### Task
 After the ferocious Black Summer bushfires in Australia, the public was energised for Australian government leaders to take swift and decisive action. For School Strike 4 Climate’s upcoming strike on May 15, I was tasked to create an engaging and sharable launch ad to promote the action. Building of the success of the September 20 strikes, it was supposed to show our power as well as what we’re fighting for, with strong imagery of the bushfires.
 

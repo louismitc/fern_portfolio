@@ -8,6 +8,7 @@ tags:
   - video editing
 order: 0
 ---
+<img alt="EBB gif" src="/static/img/gif/EBB.gif">
 
 ### Task
 Europe Beyond Burning is a campaign run by Fridays For Future activist in Europe, calling for the EU to stop burning biomass as a “renewable” source of energy, as it creates large amounts of emissions and contributes to biodiversity loss.
