@@ -11,13 +11,9 @@ tags:
 order: 4
 ---
 
-### Task
-
 With the IPCC AR6 report being released, I was tasked to create engaging graphics that not only pulled the reader in, but was also able to explain the key takeaways from the IPCC report. I was lucky enough to be able to receive embargoed materials the morning of the release, giving around 8 hours for creation, review, and publication.   
 
-### Solution
-
-I decided it would be best for the title slide to be different and unique to the other slides, to engage the scrolling viewer, who would also be likely exposed to a lot of IPCC content, due to Climate Live's audience demographic. Using composites and multiple effects, I created a title slide. I had to spend some time on the title effect to ensure that it was not only visually engaging but also accessible to read.
+The title slide was creating using multiple video effects and composites to hook the viewer - we knew that scrolling audiences would be exposed to a lot of IPCC content, so it was vital to make ours as engaging as possible. Additional time was spent on the title effects to ensure that it was not only visually engaging, but also accessible to read.
 
 <img width="1280" alt="Title slide of post" src="/static/img/ipcc-titleopt.gif">
 

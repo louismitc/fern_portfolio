@@ -10,13 +10,9 @@ order: 0
 ---
 <img alt="EBB gif" src="/static/img/gif/EBB.gif">
 
-### Task
-Europe Beyond Burning is a campaign run by Fridays For Future activist in Europe, calling for the EU to stop burning biomass as a “renewable” source of energy, as it creates large amounts of emissions and contributes to biodiversity loss.
+Europe Beyond Burning is a campaign run by Fridays For Future activist in Europe, calling for the EU to stop burning biomass as a “renewable” source of energy, as it creates large amounts of emissions and contributes to biodiversity loss. Right before Earth Day, Europe Beyond Burning held an event outside the European Parliament, taking with members of the public and relevant MEP’s about the negative impact of biomass. They wanted to create a short video to share on Earth Day about the action and share more reasons as to why Europe should divest from Biomass.
 
-Right before Earth Day, Europe Beyond Burning held an event outside the European Parliament, taking with members of the public and relevant MEP’s about the negative impact of biomass. They wanted to create a short video to share on Earth Day about the action and share more reasons as to why Europe should divest from Biomass.
-
-### Solution
-This video had a tight turnaround, so I started immediately after video footage from the action was provided. The EBB team had already created a script and loose storyboard, so it was easy to edit all the elements together. I used additional B-Roll from Greenpeace to supplement the video, and used the instrumental from Billie Eilish’s song “you should see me in a crown” to provide an energising beat for the video, and to line up cuts to.
+This video had a tight turnaround, so I started immediately after video footage from the action was provided. The EBB team had already created a script and loose storyboard, so my role was to edit everything together in an engaging way. I used additional B-Roll from Greenpeace to supplement the video, and used the instrumental from Billie Eilish’s song “you should see me in a crown” to provide an energising beat for the video, and to line up cuts to.
 
 The video was finalised the day before Earth Day, allowing for ample time for feedback, and released on Earth Day to a positive reception.
 <div align="center">

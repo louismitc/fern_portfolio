@@ -9,15 +9,9 @@ tags:
 order: 5
 ---
 
-### Task
-During my time working within digital climate communications, I've written some pretty good tweets. I've worked alongside orgs to create strategies to reach a wide audience, primarily Gen-Z. Here's some of my faves:
+During my time working within digital climate communications, I've written some good tweets while working alongside orgs to create strategies to reach a wide audience, primarily Gen-Z. Here's some of my faves:
 
-<div align="center">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">unprecedented &quot;natural&quot; disasters caused by global warming are about as natural as ur mum lol</p>&mdash; Climate Live (@ClimateLive2021) <a href="https://twitter.com/ClimateLive2021/status/1395342791069237259?ref_src=twsrc%5Etfw">May 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<div align="center">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">scientists: yo climate change is a thing we should do something about because it will literally kill everyone<br><br>politicians: no<br><br>the world: *litterally catches on fire*<br><br>politicians: <a href="https://t.co/VpdkWxh82R">pic.twitter.com/VpdkWxh82R</a></p>&mdash; School Strike 4 Climate Australia (@StrikeClimate) <a href="https://twitter.com/StrikeClimate/status/1293686172061798401?ref_src=twsrc%5Etfw">August 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">✨self care tips✨<br> - 💧 drink water 😊<br> - 🏃‍♂️ exercise<br> - 🌏 REGISTER AN EVENT FOR SEPTEMBER 25 AT <a href="https://t.co/rnbjInzFyc">https://t.co/rnbjInzFyc</a> BECAUSE WE STRIKE TOMORROW BAYBEEEEEE</p>&mdash; School Strike 4 Climate Australia (@StrikeClimate) <a href="https://twitter.com/StrikeClimate/status/1308920331890036738?ref_src=twsrc%5Etfw">September 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div align="center">
@@ -42,6 +36,10 @@ During my time working within digital climate communications, I've written some 
 
 <div align="center">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">tip of the day: find someone who loves you as much as scomo loves the fossil fuel industry</p>&mdash; School Strike 4 Climate Australia (@StrikeClimate) <a href="https://twitter.com/StrikeClimate/status/1271749448012455936?ref_src=twsrc%5Etfw">June 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div align="center">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">unprecedented &quot;natural&quot; disasters caused by global warming are about as natural as ur mum lol</p>&mdash; Climate Live (@ClimateLive2021) <a href="https://twitter.com/ClimateLive2021/status/1395342791069237259?ref_src=twsrc%5Etfw">May 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div align="center">
