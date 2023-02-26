@@ -11,13 +11,13 @@ tags:
   
 order: 1
 ---
-Curv is a social media network designed from the ground up to push for action on social issues, while also supporting users mental health and wellbeing. 
+[Curv](joincurv.com) is a social media network designed from the ground up to push for action on social issues, while also supporting user's mental health and wellbeing. 
 
 After initially working with Curv on a pro-bono basis to create video content and advise their social strategy in early 2022, I came on to join their team full-time working as a video & content producer, as well as working on movement support. Working remotely, I was tasked with fully producing video content for both Curv as a company, but also for movements that utilised Curv to allow them to grow and thrive, as well as lead Curv’s external social media communications strategy. The focus was almost always not on advancing Curv as a brand, but rather supporting the movements and social causes represented on Curv, which would result in platform growth.
 
-Working as part of this team allowed me to not only continue to improve in my skills in video production within a fast paced environment, but the “all hands on deck” work culture allowed me to improve my skills in graphic design, web design & development, UI & UX, systems management, marketing. It was also incredible to work with and support a wide variety of movements in predominantly social change and climate spaces who were making a genuine impact, as a part of my job. 
+Working as part of this team allowed me to not only continue to improve in my skills in video production within a fast paced environment, but the “all hands on deck” work culture allowed me to improve my skills in graphic design, web design & development, UI & UX, systems management, and online and offline marketing. It was also incredible to work with and support a wide variety of movements in predominantly social change and climate spaces who were making a genuine impact, as a part of my job. 
 
-Almost all video work I completed for Curv was completed from pitch to delivery by myself. 
+Almost all video work I completed for Curv, and all videos within this page, were completed independently from pitch to delivery by myself. 
 
 ### Movement Collaborations
 
