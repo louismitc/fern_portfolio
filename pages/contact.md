@@ -10,4 +10,4 @@ eleventyNavigation:
   key: contact
   order: 4
 ---
-i'm always keen to take on freelance work, or even projects that might take a little more time. just put in your details below and i'll be in touch!
+i'm always interested to take on freelance work, or even projects that might take a little more time. just put in your details below and i'll be in touch!

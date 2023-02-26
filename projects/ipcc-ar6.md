@@ -8,7 +8,7 @@ tags:
   - graphics
   - copywriting
   - social media
-order: 4
+order: 5
 ---
 
 With the IPCC AR6 report being released, I was tasked to create engaging graphics that not only pulled the reader in, but was also able to explain the key takeaways from the IPCC report. I was lucky enough to be able to receive embargoed materials the morning of the release, giving around 8 hours for creation, review, and publication.   

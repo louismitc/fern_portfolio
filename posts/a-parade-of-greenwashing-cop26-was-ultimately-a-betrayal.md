@@ -7,7 +7,7 @@ summary: I wrote this article for The Sydney Morning Herald and The Age after
 tags:
   - post
 ---
-*I wrote this article for [The Sydney Morning Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) and [The Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) after attending COP26. It's republished here because it's nice.*
+*I wrote this article for [The Sydney Morning Herald](https://smh.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) and [The Age](https://www.theage.com.au/national/a-parade-of-greenwashing-cop26-was-ultimately-a-betrayal-20211114-p598qg.html) after attending COP26. I've republished it below.*
 
 A quiet murmur, simmering with both anxiety and excitement, fills the room. The air is thick with anticipation.
 
